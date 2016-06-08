@@ -1,2 +1,2 @@
 # nrf_mma8453q
-A MMA8453Q driver for the NRF51 series
+A MPU60-50 driver for the NRF52 series
